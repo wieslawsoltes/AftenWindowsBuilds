@@ -2,7 +2,7 @@
 
 Win32 and Win64 builds website:
 
- https://github.com/wieslawsoltes/wavtoac3encoder
+ https://github.com/wieslawsoltes/AftenWindowsBuilds
 
 What is Aften:
 
